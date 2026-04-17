@@ -45,3 +45,5 @@ app.listen(PORT, () => {
 // added cors support
 
 // added cors support
+
+// added cors
